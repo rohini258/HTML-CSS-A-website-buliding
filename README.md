@@ -1,2 +1,2 @@
 # HTML-CSS-A-website-buliding
-Web development|Frontend|HTML-CSS
+Source code for this website and the related images files.
